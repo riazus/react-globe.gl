@@ -1,5 +1,5 @@
 import fromKapsule from 'react-kapsule';
-import GlobeKapsule from 'globe.gl';
+import GlobeKapsule from 'globe.gl-riazus';
 import GlobePropTypes from './globe-proptypes';
 
 const Globe = fromKapsule(
