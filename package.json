@@ -1,7 +1,7 @@
 {
-  "name": "react-globe.gl",
+  "name": "react-globe.gl-riazus",
   "version": "2.27.1",
-  "description": "React component for Globe Data Visualization using ThreeJS/WebGL",
+  "description": "React component for Globe Data Visualization using Forked ThreeJS/WebGL - riazus",
   "license": "MIT",
   "type": "module",
   "unpkg": "dist/react-globe.gl.min.js",
@@ -16,7 +16,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vasturiano/react-globe.gl.git"
+    "url": "git+https://github.com/riazus/react-globe.gl.git"
   },
   "keywords": [
     "react",
@@ -29,13 +29,12 @@
     "orthographic"
   ],
   "author": {
-    "name": "Vasco Asturiano",
-    "url": "https://github.com/vasturiano"
+    "name": "Riyaz Usmanov",
+    "url": "https://github.com/riazus"
   },
   "bugs": {
-    "url": "https://github.com/vasturiano/react-globe.gl/issues"
+    "url": "https://github.com/riazus/react-globe.gl/issues"
   },
-  "homepage": "https://github.com/vasturiano/react-globe.gl",
   "scripts": {
     "build": "rimraf dist && rollup -c",
     "dev": "rollup -w -c rollup.config.dev.js",
@@ -45,7 +44,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "globe.gl": "^2.32",
+    "globe.gl-riazus": "^2.32",
     "prop-types": "15",
     "react-kapsule": "2"
   },
