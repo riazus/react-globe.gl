@@ -1,17 +1,17 @@
 {
   "name": "react-globe.gl-riazus",
-  "version": "2.27.1",
+  "version": "2.27.2",
   "description": "React component for Globe Data Visualization using Forked ThreeJS/WebGL - riazus",
   "license": "MIT",
   "type": "module",
-  "unpkg": "dist/react-globe.gl.min.js",
-  "main": "dist/react-globe.gl.mjs",
-  "module": "dist/react-globe.gl.mjs",
-  "types": "dist/react-globe.gl.d.ts",
+  "unpkg": "dist/react-globe.gl-riazus.min.js",
+  "main": "dist/react-globe.gl-riazus.mjs",
+  "module": "dist/react-globe.gl-riazus.mjs",
+  "types": "dist/react-globe.gl-riazus.d.ts",
   "exports": {
-    "types": "./dist/react-globe.gl.d.ts",
-    "umd": "./dist/react-globe.gl.min.js",
-    "default": "./dist/react-globe.gl.mjs"
+    "types": "./dist/react-globe.gl-riazus.d.ts",
+    "umd": "./dist/react-globe.gl-riazus.min.js",
+    "default": "./dist/react-globe.gl-riazus.mjs"
   },
   "sideEffects": false,
   "repository": {
