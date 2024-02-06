@@ -1,6 +1,6 @@
 {
   "name": "react-globe.gl-riazus",
-  "version": "2.27.2",
+  "version": "2.27.3",
   "description": "React component for Globe Data Visualization using Forked ThreeJS/WebGL - riazus",
   "license": "MIT",
   "type": "module",
