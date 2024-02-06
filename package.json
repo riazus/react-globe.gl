@@ -44,7 +44,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "globe.gl-riazus": "^2.32",
+    "globe.gl-riazus": "^2.32.2",
     "prop-types": "15",
     "react-kapsule": "2"
   },
